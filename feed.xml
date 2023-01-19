@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Satchd</title>
+    <link href="https://jwwjmeat.github.io/sachd-site/feed.xml" rel="self" />
+    <link href="https://jwwjmeat.github.io/sachd-site" />
+    <updated>2023-01-18T21:03:01-06:00</updated>
+    <author>
+        <name>Josh Weitzel</name>
+    </author>
+    <id>https://jwwjmeat.github.io/sachd-site</id>
+
+    <entry>
+        <title>Satchd</title>
+        <author>
+            <name>Josh Weitzel</name>
+        </author>
+        <link href="https://jwwjmeat.github.io/sachd-site/satchd.html"/>
+        <id>https://jwwjmeat.github.io/sachd-site/satchd.html</id>
+
+        <updated>2023-01-18T21:03:01-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Welcome to Satchd - the social tool you never thought you'd need, but now that it's here, you can't get enough. When you install Satchd for Tidal, or Satchd for Spotify, and you play a Joe Satriani song, one or several of your dear ones&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Welcome to Satchd - the social tool you never thought you'd need, but now that it's here, you can't get enough. </p>
+<p>When you install Satchd for Tidal, or Satchd for Spotify, and you play a Joe Satriani song, one or several of your dear ones will be sent a message or email containing this photo</p>
+<figure class="post__image"><img loading="lazy"  src="https://jwwjmeat.github.io/sachd-site/media/posts/1/satchd.png" alt="Joe Satriani wearing goggles" width="1122" height="950" sizes="100vw" srcset="https://jwwjmeat.github.io/sachd-site/media/posts/1/responsive/satchd-xs.png 300w ,https://jwwjmeat.github.io/sachd-site/media/posts/1/responsive/satchd-sm.png 480w ,https://jwwjmeat.github.io/sachd-site/media/posts/1/responsive/satchd-md.png 768w ,https://jwwjmeat.github.io/sachd-site/media/posts/1/responsive/satchd-lg.png 1024w ,https://jwwjmeat.github.io/sachd-site/media/posts/1/responsive/satchd-xl.png 1360w ,https://jwwjmeat.github.io/sachd-site/media/posts/1/responsive/satchd-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
